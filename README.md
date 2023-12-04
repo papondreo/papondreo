@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/123875656/230713250-a965a1cd-6042-45c3-b1ef-8f86b2720a4b.png)
+
 
 <h3 align="center">
 Hi there 👋
 </h3>
 
 <h2 align="center">
-I'm a Backend Developer 💻
+I'm a Frontend Developer 💻
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
